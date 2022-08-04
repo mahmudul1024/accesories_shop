@@ -2,6 +2,10 @@
     background-image: linear-gradient(90deg ,red ,blue);
 }
 
+.bt-background2{
+    background-image: linear-gradient(90deg ,red ,rgb(234, 255, 0));
+}
+
 .logo{
     height: 100px;
     width: 100px;
